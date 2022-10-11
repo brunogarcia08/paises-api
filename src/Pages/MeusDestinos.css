@@ -1,0 +1,27 @@
+.destinosAdc {
+    border: 1px solid black;
+    height: 60px;
+    margin: 8px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.dadosPais {
+    width: 25%;
+    padding: 5px;
+ 
+}
+
+.btnRemove {
+    display: flex;
+    float: right;
+    height: 30px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: red;
+    border: 0.3px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
